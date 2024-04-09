@@ -1,5 +1,13 @@
+.search-bar {
+  display: block;
+  margin-bottom: 0px;
+}
+
 .thumbnails-1 {
-  height: 278px;
-  width: 156px;
+  height: 300px;
+  width: 276px;
   object-fit: contain;
+  object-position: top;
+  display: inline;
+  margin-top: 0px;
 }
